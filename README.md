@@ -1,8 +1,21 @@
-# MyHunter
-In this project, the goal is to  make a small video game based on the rules of Duck Hunt.
-The basic rules for the my_hunter are as follows:
-            • the player is a hunter who shoots ducks. 
-            • ducks must appear on the screen and move from one side to another. 
-            • the player can click on them to shoot them.
-            
-The other goal of the project is to be able to manage inputs from the user and to display animated sprites are key skills  to develop basic games.
+Epitech Project 2018 : Module Graphique
+
+Project name : New Generation DunkHunt
+
+Creator : Yaowanart HURE
+
+Year of creation : 2018
+
+The Game goal:
+
+The basic rules for the New Generation DunkHunt are as follows:
+
+ • The player is a hunter who shoots ducks.
+ • Ducks must appear on the screen and move from one side to another.
+ • The player can click on them to shoot them.
+ • Little difficulty you only have 5 opportunities to kill the little dunk.
+
+Usage:
+./my_hunter
+
+GOOD LUCK PLAYER ! :p
